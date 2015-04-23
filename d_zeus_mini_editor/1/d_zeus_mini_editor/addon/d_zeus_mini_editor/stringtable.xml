@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_zeus_mini_editor">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_zeus_mini_editor__str">
+		<Original>"Point a finger at" addon</Original>
+		<Russian>Аддон "показать пальцем на"</Russian>
+	</Key> 
+
+
+  </Package>
+</Project>

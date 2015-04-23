@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_finger">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_finger__uac_section">
+		<Original>"Point a finger at" addon</Original>
+		<Russian>Аддон "показать пальцем на"</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_keyComb">
+		<Original>Action "point a finger at"</Original>
+		<Russian>Действие "показать пальцем на"</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_color">
+		<Original>Indication icon color</Original>
+		<Russian>Цвет индикатора</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_opaque">
+		<Original>Indication icon opaque</Original>
+		<Russian>Непрозрачность индикатора</Russian>
+	</Key> 
+ 	<Key ID="STR_Addons__d_finger__uac_indicator_for_self">
+		<Original>Show indicator for pointing player</Original>
+		<Russian>Отображать индикатор для показывающего игрока</Russian>
+	</Key> 
+
+
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Black">
+		<Original>Black</Original>
+		<Russian>Черный</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Blue">
+		<Original>Blue</Original>
+		<Russian>Синий</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Brown">
+		<Original>Brown</Original>
+		<Russian>Коричневый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Green">
+		<Original>Green</Original>
+		<Russian>Зелёный</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Grey">
+		<Original>Grey</Original>
+		<Russian>Серый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Khaki">
+		<Original>Khaki</Original>
+		<Russian>Хаки</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Orange">
+		<Original>Orange</Original>
+		<Russian>Оранжевый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Pink">
+		<Original>Pink</Original>
+		<Russian>Розовый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Red">
+		<Original>Red</Original>
+		<Russian>Красный</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_White">
+		<Original>White</Original>
+		<Russian>Белый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Yellow">
+		<Original>Yellow</Original>
+		<Russian>Желтый</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_finger__uac_col_Gold">
+		<Original>Gold</Original>
+		<Russian>Золотистый</Russian>
+	</Key> 
+
+
+  </Package>
+</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_nigth_brighter">
+  <Package name="strings">
+
+ 	<Key ID="STR_Addons__d_night_brighter__enabled">
+		<Original>Enable "night brighter"</Original>
+		<Russian>Включить "осветитель ночи"</Russian>
+	</Key> 
+
+  </Package>
+</Project>

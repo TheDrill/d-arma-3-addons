@@ -1,0 +1,3 @@
+I totally refuse to accept responsibility for anything that might happen to your game/computer/life as a result of using my addons.
+
+If you accept this, then feel free to use and modify this code, on the proviso that you post back changes and improvements so that everyone can benefit from them, and acknowledge the original author (Drill) in any derivative works. Wrapping my unacknowledged work up inside an encrypted pbo addon does not count as returning it to the community. 

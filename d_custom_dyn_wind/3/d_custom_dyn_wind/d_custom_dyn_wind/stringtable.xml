@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_custom_dyn_wind">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDisplayName">
+		<Original>Set wind parameters</Original>
+		<Russian>Установить поведение ветра</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDescription">
+		<Original>This module could be used to set parameters of wind when d_custom_dyn_wind addon is used</Original>
+		<Russian>Этот модуль позволяет установить поведение ветра при использовании аддона d_custom_dyn_wind</Russian>
+	</Key> 
+
+
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDir_0">
+		<Original>Wind direction</Original>
+		<Russian>Направление ветра</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDir_1">
+		<Original>Wind average direction (-1 for random)</Original>
+		<Russian>Среднее направление ветра (-1 для случайного выбора)</Russian>
+	</Key> 
+
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleStr_0">
+		<Original>Wind strength</Original>
+		<Russian>Сила ветра</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleStr_1">
+		<Original>Wind average strength in m/s (-1 for random)</Original>
+		<Russian>Средняя скорость ветра в м/с (-1 для случайного выбора)</Russian>
+	</Key> 
+
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDisp_0">
+		<Original>Wind vector dispersion</Original>
+		<Russian>Изменчивость вектора ветра</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_custom_dyn_wind__moduleDisp_1">
+		<Original>Wind vector (direction and strength) dispersion in m/s (-1 for auto)</Original>
+		<Russian>Дисперсия вектора ветра (его сила и направление) в м/с (-1 для автоматического выбора)</Russian>
+	</Key> 
+
+
+  </Package>
+</Project>

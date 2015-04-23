@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_map_adv_markers">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__IMD_Description">
+		<Original>Description:</Original>
+		<Russian>Описание:</Russian>
+	</Key> 
+	
+
+
+
+  </Package>
+</Project>

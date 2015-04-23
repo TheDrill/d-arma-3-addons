@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_map_adv_markers">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__IMD_Description">
+		<Original>Description:</Original>
+		<Russian>Описание:</Russian>
+	</Key> 
+	
+
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__opt_always_off">
+		<Original>Always don't show</Original>
+		<Russian>Никогда не отображать</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__opt_off">
+		<Original>Don't show by default</Original>
+		<Russian>Не отображать по-умолчанию</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__opt_on">
+		<Original>Show by default</Original>
+		<Russian>Отображать по-умолчанию</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__opt_always_on">
+		<Original>Always show</Original>
+		<Russian>Всегда отображать</Russian>
+	</Key> 
+
+
+
+
+ 	<Key ID="STR_Addons__d_map_adv_markers__uac_section">
+		<Original>Map Advanced Markers</Original>
+		<Russian>Map Advanced Markers</Russian>
+	</Key> 
+	
+	
+	<Key ID="STR_Addons__d_map_adv_markers__uac_MarkerTagNameVisibility">
+		<Original>Visibility of marker creator's name</Original>
+		<Russian>Отображение имени создателя маркера</Russian>
+	</Key> 
+
+	<Key ID="STR_Addons__d_map_adv_markers__uac_MarkerTagChannelVisibility">
+		<Original>Visibility of marker channel</Original>
+		<Russian>Отображение канала маркера</Russian>
+	</Key> 
+		 
+	<Key ID="STR_Addons__d_map_adv_markers__uac_LineMarkerTagNameVisibility">
+		<Original>Visibility of line marker creator's name</Original>
+		<Russian>Отображение имени создателя линейного маркера</Russian>
+	</Key> 
+		 
+	<Key ID="STR_Addons__d_map_adv_markers__uac_LineMarkerTagChannelVisibility">
+		<Original>Visibility of line marker channel</Original>
+		<Russian>Отображение канала линейного маркера</Russian>
+	</Key> 
+
+	<Key ID="STR_Addons__d_map_adv_markers__uac_ActivateAltTagVisKey">
+		<Original>Activatу of alternate marker tags visibility mode</Original>
+		<Russian>Активировать альтернативного режима отображения подписи маркеров</Russian>
+	</Key> 
+
+
+	<Key ID="STR_Addons__d_map_adv_markers__uac_ModForLineMarkers">
+		<Original>Modifier-key for placing line marker</Original>
+		<Russian>Кнопка-модификатор для установки линейных маркеров</Russian>
+	</Key> 
+  </Package>
+</Project>

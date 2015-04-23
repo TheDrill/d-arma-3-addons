@@ -1,0 +1,5 @@
+xx\addons\dmap_adv_markers
+=======HEADER=======
+prefix=xx\addons\dmap_adv_markers
+Pbo Type is: Arma Addon
+==================

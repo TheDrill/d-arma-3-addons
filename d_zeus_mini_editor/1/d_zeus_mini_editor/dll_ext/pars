@@ -1,0 +1,6 @@
+BEGIN Arma 3\missions\zme_test.VR\mission.sqm
+#SET none azimut 0
+#MAKE_ALL_PLAYABLE
+IMPORT_ALL
+#UNIMPORT_ALL
+END
